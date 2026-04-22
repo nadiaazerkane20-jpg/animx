@@ -1,0 +1,9 @@
+{
+  "name": "lejardindereve",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LeJardinDeReve — boutique de poulaillers avec checkout SumUp",
+  "engines": {
+    "node": ">=18"
+  }
+}
